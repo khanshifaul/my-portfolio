@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "DancingScript";
+  src: url("/fonts/DancingScript.woff");
+}
+
+@font-face {
+  font-family: "AmadeusAP";
+  src: url("/fonts/AmadeusAP.woff");
+}
